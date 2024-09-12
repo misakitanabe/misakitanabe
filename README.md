@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-### 🙋🏻‍♀️ My name is Misaki Tanabe, and I'm a fourth year Computer Science major at Cal Poly SLO! Currently, I'm also working as a Security Solutions Engineer at Exclusive Networks until graduation. 
+#### 🙋🏻‍♀️ My name is Misaki Tanabe, and I'm a fourth year Computer Science major at Cal Poly SLO! Currently, I'm also working as a Security Solutions Engineer at Exclusive Networks until graduation. 
 
-### 📫 Reach me at Mtanabe@calpoly.edu
+#### 🌱 Technical Skills
+- Languages/Frameworks: Python, C/C++, Javascript, Express.js, React, Racket, Java, SQL, Ruby, Assembly
+- Tools: Git, Metasploit, PostgreSQL, MySQL, Nmap, Wireshark, MongoDB, Socket.IO, VirtualBox, Figma
+- Skills: Penetration Testing, Scripting, Full Stack Web Development, REST API, Object Oriented Programming
+
+#### 📫 Reach me at Mtanabe@calpoly.edu
 <!--
 **misakitanabe/misakitanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
