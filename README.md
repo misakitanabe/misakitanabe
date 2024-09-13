@@ -4,7 +4,7 @@
 
 #### 🌱 Technical Skills
 - Languages/Frameworks: Python, C/C++, Javascript, Racket, Java, SQL, Ruby, Assembly, Express.js, React, Chakra UI, Tailwind CSS
-- Tools: Git, Metasploit, PostgreSQL, MySQL, Nmap, Wireshark, Socket.IO, VirtualBox, Figma
+- Tools: Git, Metasploit, Nmap, Wireshark, Socket.IO, VirtualBox, Figma, Hydra, John the Ripper
 - Skills: Full Stack Web Development, REST API, Penetration Testing, Scripting, Object Oriented Programming
 - Databases: PostgreSQL, MongoDB, MySQL
 
