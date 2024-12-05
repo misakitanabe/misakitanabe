@@ -3,9 +3,9 @@
 #### 🙋🏻‍♀️ My name is Misaki Tanabe, and I'm a fourth year Computer Science major at Cal Poly SLO! Currently, I'm also working as a Security Solutions Engineer at Exclusive Networks until graduation. 
 
 #### 🌱 Technical Skills
-- Languages/Frameworks: Python, C/C++, Javascript, Racket, Java, SQL, Ruby, Assembly, Express.js, React, Chakra UI, Tailwind CSS
-- Tools: Git, Metasploit, Nmap, Wireshark, Socket.IO, VirtualBox, Figma, Hydra, John the Ripper
-- Skills: Full Stack Web Development, REST API, Penetration Testing, Scripting, Object Oriented Programming
+- Languages/Frameworks: Python, C/C++, Javascript, R, Java, SQL, Ruby, Assembly, Racket, Express.js, React, Chakra UI, Tailwind CSS
+- Tools: Git, Socket.IO, VirtualBox, Metasploit, Nmap, Wireshark,  Figma, Hydra, John the Ripper
+- Skills: Full Stack Web Development, REST API, Machine Learning, Penetration Testing, Scripting, Object Oriented Programming
 - Databases: PostgreSQL, MongoDB, MySQL
 
 #### 📫 Reach me at Mtanabe@calpoly.edu
